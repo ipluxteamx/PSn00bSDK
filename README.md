@@ -135,5 +135,3 @@ References used:
 * Tails92's PSXSDK project (during PSn00bSDK's infancy).
 
 Additional references can be found in individual source files.
-
-m
